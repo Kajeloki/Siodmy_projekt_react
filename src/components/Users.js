@@ -16,6 +16,13 @@ class Users extends Component {
       showUsers: true
     };
   }
+
+  componentDidUpdate(){
+    if(this.props.users.length ===0)
+    {
+      throw new Error('Brak użytkowników');
+    }
+  }
   toggleUsersHandler() {
     this.setState(
       (curState) => {
