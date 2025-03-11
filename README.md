@@ -46,18 +46,10 @@
 
 ## Application view
 The whole page:</br>
-<img width="75%" height="15%" src=https://github.com/user-attachments/assets/a6316a7c-15e3-41f5-9373-43fb85d8cb4c></br>
-The website includes:</br>
-
-  The "New expense" component closed/rolled up:</br>
-<img width="75%" src="https://github.com/user-attachments/assets/57665258-cbb6-40da-a66f-ed8224a377a9"></br>
-  The "New expense" component open/outspread:</br>
-<img width="75%" src="https://github.com/user-attachments/assets/1246cd60-35b5-43ab-93af-73d0acb6cdf2"></br>
-  The expenses chart with diagram, year filter and list of expenses for choosen year:</br>
-<img width="75%" src="https://github.com/user-attachments/assets/81d09413-1d0f-4866-b823-a0d7baf17def"></br>
+<img width="75%" height="15%" src="https://github.com/user-attachments/assets/c73f8eb6-555b-4687-9f52-c54c8a9b298b"></br>
 
 Short demo of running app:</br>
-<img width="75%" src="https://github.com/user-attachments/assets/a7ae2150-301a-49b6-92f0-03edac224ff9">
+<img width="75%" src="https://github.com/user-attachments/assets/97bf49e7-3e6f-422e-875c-05874274488c">
 
 ## Sources
 This project is based on a project from the <b>React - The Complete Guide 2024 (incl. Next.js, Redux)</b> course from Udemy.com
